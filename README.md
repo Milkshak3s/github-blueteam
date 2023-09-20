@@ -43,5 +43,5 @@ By authorizing, owners of Sentry will be able to see this personal access tokenâ
 
 
 ## References
-(Limiting OAuth app and GitHub App access requests)[https://docs.github.com/en/organizations/managing-programmatic-access-to-your-organization/limiting-oauth-app-and-github-app-access-requests]
+[Limiting OAuth app and GitHub App access requests][https://docs.github.com/en/organizations/managing-programmatic-access-to-your-organization/limiting-oauth-app-and-github-app-access-requests]
 
